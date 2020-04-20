@@ -1,0 +1,17 @@
+
+export const GET_LIST_FOLDER_REQUEST = "GET_LIST_FOLDER_REQUEST";
+export const GET_LIST_FOLDER_SUCSESS = "GET_LIST_FOLDER_SUCSESS";
+export const GET_API_RFAILURE = "GET_PC_FAIL_RFAILURE";
+export const PROP_TO_DEFAULT = "PROP_TO_DEFAULT";
+
+export const CLICK_NEW_TAG_REQUEST = "CLICK_NEW_TAG_REQUEST";
+export const CLICK_NEW_TAG_SUCSESS = "CLICK_NEW_TAG_SUCSESS";
+
+
+export const GET_PC_PROPERTIES_REQUEST = "GET_PC_PROPERTIES_REQUEST";
+export const GET_PC_PROPERTIES_SUCSESS = "GET_PC_PROPERTIES_SUCSESS";
+
+export const URL_LIST_FOLDER = "https://5e991e265eabe7001681c75f.mockapi.io/tag";
+export const URL_TAG_CLOUDIARY = "https://res.cloudinary.com/hieudz/image/list/";
+
+
